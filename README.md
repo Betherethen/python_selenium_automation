@@ -1,2 +1,2 @@
 # python_selenium_automation
-Some lessons learned 
+Some hard lessons learned 
